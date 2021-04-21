@@ -250,7 +250,7 @@ margin-bottom: 40px;
 	}
 	.about-left{
 		flex-basis: 40%;
-		background-image:url("C:/Users/Seif/Desktop/left.jpg");
+		background-image:url(https://github.com/SN963/HomePage.io/blob/main/left.jpg);
 	}	
 	.about-right{
 		flex-basis: 60%;
